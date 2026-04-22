@@ -40,4 +40,4 @@ I'm actively exploring new opportunities in Salesforce development and full-stac
 
 📧 Email: clangley933@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/charles-s-langley/
-💻 GitHub Projects: See pinned repositories below
+💻 GitHub Projects: https://github.com/Charles-Langley-Jr/service-request-hub
