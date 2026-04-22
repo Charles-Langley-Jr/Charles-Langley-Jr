@@ -1,6 +1,6 @@
 Hi, I'm Charles 👋
 Salesforce Developer · Certified Platform Specialist · 10+ Years Delivering Enterprise Solutions
-I build Salesforce solutions that make complex business processes feel simple — for the teams using them and the customers relying on them. My background blends hands-on development (Apex, LWC, Flow) with the leadership and communication skills it takes to turn technical work into real business value.
+I build Salesforce solutions that transform the way that clients reach out to the customers. complex business processes feel simple — for the teams using them and the customers relying on them. My background blends hands-on development (Apex, LWC, Flow) with the leadership and communication skills it takes to turn technical work into real business value.
 
 What I Do
 
@@ -31,11 +31,13 @@ Certifications
 
 A Bit About Me
 I spent a decade at Accenture leading Salesforce work across utilities, financial services, and life sciences clients — everything from migrating legacy systems to Salesforce CRM, to resolving 200+ defects ahead of a go-live, to standing up training environments across 42 markets. Along the way I learned that the best technical solution is the one the business can actually use, and that great documentation is a force multiplier for any team.
+
+Education
 Temple University Bachelor of Science — Mathematics & Computer Science.
 
 Let's Connect
 I'm actively exploring new opportunities in Salesforce development and full-stack roles. If you've got a problem worth solving or a team worth joining, I'd love to hear from you.
 
 📧 Email: clangley933@gmail.com
-💼 LinkedIn: [Add your LinkedIn URL here]
+💼 LinkedIn: https://www.linkedin.com/in/charles-s-langley/
 💻 GitHub Projects: See pinned repositories below
