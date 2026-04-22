@@ -1,6 +1,6 @@
 Hi, I'm Charles 👋
 Salesforce Developer · Certified Platform Specialist · 10+ Years Delivering Enterprise Solutions
-I build Salesforce solutions that transform the way that clients reach out to the customers. complex business processes feel simple — for the teams using them and the customers relying on them. My background blends hands-on development (Apex, LWC, Flow) with the leadership and communication skills it takes to turn technical work into real business value.
+I build Salesforce solutions that transform the way that clients reach out to the customers.  My background blends hands-on development (Apex, LWC, Flow) with the leadership and communication skills it takes to turn technical work into real business value.
 
 What I Do
 
